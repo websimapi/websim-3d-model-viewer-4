@@ -74,8 +74,8 @@ function init() {
 
     const positions = [
         new THREE.Vector3(0, 0, 0),
-        new THREE.Vector3(-3, 1, 0),
-        new THREE.Vector3(3, 1, 0)
+        new THREE.Vector3(0.85, -0.24, -0.01),
+        new THREE.Vector3(-0.63, 0.31, 0.01)
     ];
 
     const modelNames = ['Pony', 'Wings', 'Unicorn Horn'];
