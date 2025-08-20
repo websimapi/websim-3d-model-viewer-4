@@ -74,7 +74,7 @@ function init() {
 
     const positions = [
         new THREE.Vector3(0, 0, 0),
-        new THREE.Vector3(-0.26, 0.08, 0.1),
+        new THREE.Vector3(-0.26, 0.08, -0.1),
         new THREE.Vector3(-0.63, 0.31, 0.01)
     ];
 
